@@ -25,7 +25,9 @@ Rails.application.routes.draw do
   #       get 'sold'
   #     end
   #   end
-
+  resources :home
+  resources :data
+  root 'home#index'
   # Example resource route with sub-resources:
   #   resources :products do
   #     resources :comments, :sales

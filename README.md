@@ -1,5 +1,5 @@
 # faker
-For generating Fake (Test) data
+For generating Fake (Test) data. Based on 'faker' gem
 
 Application is developed in ruby-on-rails
 
